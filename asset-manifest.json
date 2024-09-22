@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/music-app/static/css/main.ca8eef9e.css",
+    "main.js": "/music-app/static/js/main.25e0f8fe.js",
+    "static/js/453.21f478df.chunk.js": "/music-app/static/js/453.21f478df.chunk.js",
+    "static/media/logo.svg": "/music-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/music-app/index.html",
+    "main.ca8eef9e.css.map": "/music-app/static/css/main.ca8eef9e.css.map",
+    "main.25e0f8fe.js.map": "/music-app/static/js/main.25e0f8fe.js.map",
+    "453.21f478df.chunk.js.map": "/music-app/static/js/453.21f478df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca8eef9e.css",
+    "static/js/main.25e0f8fe.js"
+  ]
+}
